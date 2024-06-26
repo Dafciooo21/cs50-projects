@@ -11,14 +11,10 @@ This repository is a compilation of the projects developed during the CS50 cours
 
 To run these projects locally, follow these steps:
 
-	1.	Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/cs50-projects.git
-    2.	Navigate to the project directory:
-    ```bash
-    cd cs50-projects
- 	3.	Follow the instructions provided in each project directory to set up and run the projects.   
-
+```bash
+git clone https://github.com/yourusername/cs50-projects.git
+cd cs50-projects  
+     
 ### License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
