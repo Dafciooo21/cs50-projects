@@ -1,5 +1,4 @@
 ## cs50-projects
- CS50 Projects
 
 Welcome to the CS50 Projects repository! This repository contains all the projects and assignments completed during the CS50 course offered by Harvard University. Each project showcases different programming concepts and techniques learned throughout the course.
 
@@ -19,7 +18,4 @@ To run these projects locally, follow these steps:
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Enjoy exploring the projects and happy coding!
-
-### Note
-This repository is for educational purposes only. All projects and code are based on assignments from the CS50 course and should be used as a reference for learning.
+Note: This repository is for educational purposes only. All projects and code are based on assignments from the CS50 course and should be used as a reference for learning.
